@@ -33,10 +33,3 @@ npm install // pnpm
 npm run dev
 ```
 
-## :link: Demo
-
--   <a target="_blank" href="(https://tic-tac-toe-ten-lake.vercel.app/)"> Click Here </a> to see and play by yourself a demo of the game.
-
-## :mailbox: Contact
-
--   <a target="_blank" href="mailto:dikshant4848@gmail.com">E-mail</a>
