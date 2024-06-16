@@ -39,4 +39,4 @@ npm run dev
 
 ## :mailbox: Contact
 
--   <a target="_blank" href="mailto:ucefhammadi@gmail.com">E-mail</a>
+-   <a target="_blank" href="mailto:dikshant4848@gmail.com">E-mail</a>
